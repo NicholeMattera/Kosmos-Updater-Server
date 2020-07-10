@@ -4,9 +4,9 @@
   "description": "Backend Server Portion of Kosmos Updater.",
   "main": "index.js",
   "author": {
-    "name": "Steven Mattera",
-    "email": "me@stevenmattera.com",
-    "url": "https://stevenmattera.com"
+    "name": "Nichole Mattera",
+    "email": "me@nicholemattera.com",
+    "url": "https://nicholemattera.com"
   },
   "license": "GPL-2.0-only",
   "dependencies": {
